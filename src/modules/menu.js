@@ -40,25 +40,25 @@ function loadMenu() {
   
     const foods = [
         createFood(
-            'dist/imgs/icecream.jpg',
+            'imgs/icecream.jpg',
             'Ice Cream',
             '$10.00',
             'Ice cream'
         ),
         createFood(
-            'dist/imgs/coffee.jpg',
+            'imgs/coffee.jpg',
             'Coffee',
             '$4.00',
             'Coffee'
         ),
         createFood(
-            'dist/imgs/cookies.jpg',
+            'imgs/cookies.jpg',
             'Cookies',
             '$7.00',
             'Cookies'
         ),
         createFood(
-            'dist/imgs/tarts.jpg',
+            'imgs/tarts.jpg',
             'Tarts',
             '$4.00',
             'Tarts'

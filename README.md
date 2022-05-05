@@ -6,7 +6,7 @@
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/restaurant-page.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/restaurant-page)
 
 # 🖱️Restaurant Page
-A resturant page I created during The Odin Project Course work using webpack for the first time. It was quite challenging and different from esbuild. 
+A restaurant page I created during The Odin Project Course work using webpack for the first time. It was quite challenging and different from esbuild. 
 
 -----
 # 💻 How to install 
