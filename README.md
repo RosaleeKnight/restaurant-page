@@ -14,7 +14,7 @@ Installation not required.
 
 -----
 # ❔ How to use
-Live at:
+Live at: https://rosaleeknight.github.io/restaurant-page/
 
 -----
 # 📝 Credits
